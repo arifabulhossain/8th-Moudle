@@ -1,0 +1,7 @@
+
+           Chapter - 12
+
+1.What is Authetion,Authorization,Authecate.
+2.Define Data integrity,confidance or data privacy.
+3.What is Realm.
+4.What is Security Constriant diagram?
