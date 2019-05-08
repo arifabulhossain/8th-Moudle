@@ -5,3 +5,7 @@
 2.Define Data integrity,confidance or data privacy.
 3.What is Realm.
 4.What is Security Constriant diagram?
+5.What type of Authentication method?Descrive them.
+6.How to redriect to a jsp page after successfull login.
+7.What error page and how can build it?
+8.What is SSL?
