@@ -1,0 +1,15 @@
+                          Primefaces
+---------------------------------------------------------------
+                          Chapter01:
+
+
+01.What is Primefaces?How can you get primases jar file to work with jsf?
+02.What is primefaces repositry Config?
+03.What is prifaces dependency artifact?
+04. When will you use the following jar file?
+jsf,primefaces,itext, Apache poi,rome.common-io
+05. Primefaces provides ppr ?
+06. What do the following keyword do?
+this,parent,form,none,all.
+07.What i18n and L10n ? differnet them.
+08.Primefaces implements own 7 page.19
